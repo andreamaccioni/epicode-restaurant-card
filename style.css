@@ -45,7 +45,7 @@ padding-bottom: 48px;
   border-radius: 6px;
   overflow: hidden;
   cursor: pointer;
-  box-shadow: 6px, 12px, -6px, black(20%)
+  box-shadow: 6px, 12px, -6px, black;
     
 }
 
